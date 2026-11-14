@@ -1,0 +1,3 @@
+[submodule "House-Price-Prediction"]
+	path = House-Price-Prediction
+	url = https://github.com/ratsinha16/House-Price-Prediction.git
